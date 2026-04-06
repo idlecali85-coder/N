@@ -1,0 +1,29 @@
+body{
+  background-color: navajowhite;
+}
+
+h1{ 
+  color: cyan;
+}
+p{
+  color: #889;
+}
+
+nav {
+  text-align: center;       /* Ku dhaxda nav */
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration:left ;
+  color: blue;
+}
+ul{
+  color: #844;
+}
+h3{
+  color: yellow;
+}
+strong{
+  color: blue;
+}
